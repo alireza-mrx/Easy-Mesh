@@ -79,8 +79,8 @@ install_easytier() {
 
     #New Version
     URL_X86="https://github.com/alireza-mrx/Easy-Mesh/raw/main/core/"
-    URL_ARM_SOFT="https://github.com/Musixal/Easy-Mesh/raw/main/core/v2.0.3/easytier-linux-armv7/"              
-    URL_ARM_HARD="https://github.com/Musixal/Easy-Mesh/raw/main/core/v2.0.3/easytier-linux-armv7hf/"
+    URL_ARM_SOFT="https://github.com/alireza-mrx/Easy-Mesh/raw/main/core/"              
+    URL_ARM_HARD="https://github.com/alireza-mrx/Easy-Mesh/raw/main/core/"
     
     # Check if the directory exists
     if [ -d "$DEST_DIR" ]; then    
